@@ -1,0 +1,100 @@
+# IFID_STATE: eyJzb3VyY2VzIjpbeyJpZCI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsIm5hbWUiOiJtaWxrIiwidHlwZSI6ImRhaXJ5IiwiaXNfYWxsZXJnZW4iOnRydWUsImlzX2RlY2xhcmFibGUiOnRydWV9XSwiZm9ybXMiOlt7ImlkIjoid2hleSIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJ3cGMiLCJtYXR0ZXJfc3RhdGUiOiJwb3dkZXIifSx7ImlkIjoiY3VyZCIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiZ2hlZSIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoia2hvYSIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiY3JlYW0iLCJtYXR0ZXJfc3RhdGUiOiJ2aXNjb3VzIn0seyJpZCI6ImJ1dHRlciIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiY2hlZXNlIiwibWF0dGVyX3N0YXRlIjoic2VtaV9zb2xpZCJ9LHsiaWQiOiJwYW5lZXIiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6InlvZ2h1cnQiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6InNvdXJfY3JlYW0iLCJtYXR0ZXJfc3RhdGUiOiJ2aXNjb3VzIn0seyJpZCI6InNtcF9wb3dkZXIiLCJtYXR0ZXJfc3RhdGUiOiJwb3dkZXIifSx7ImlkIjoibWlsa19wb3dkZXIiLCJtYXR0ZXJfc3RhdGUiOiJwb3dkZXIifSx7ImlkIjoiY2FzZWluIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6InRvbmVkX21pbGsiLCJtYXR0ZXJfc3RhdGUiOiJsaXF1aWQifSx7ImlkIjoic3dlZXRfd2hleSIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJ3aGl0ZV9idXR0ZXIiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6Im1pbGtfcHJvdGVpbiIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJ3aGV5X3BlcHRpZGVzIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6ImNoZWVzZV9wb3dkZXIiLCJtYXR0ZXJfc3RhdGUiOiJwb3dkZXIifSx7ImlkIjoieW9ndXJ0X3Bvd2RlciIsIm1hdHRlcl9zdGF0ZSI6InBvd2RlciJ9LHsiaWQiOiJyZW5uZXRfY2FzZWluIiwibWF0dGVyX3N0YXRlIjoicG93ZGVyIn0seyJpZCI6ImN1bHR1cmVkX2NyZWFtIiwibWF0dGVyX3N0YXRlIjoidmlzY291cyJ9LHsiaWQiOiJkb3VibGVfdG9uZWRfbWlsayIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJwYXJ0bHlfc2tpbW1lZF9taWxrIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6ImNvd19taWxrIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn1dLCJyZWxhdGlvbnMiOlt7ImlkIjoiODJjYmYxOTYtZGY5Yy00MjliLThjMGMtN2Q0YzcyMTg1YmRjIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJ3aGV5IiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNvYWd1bGF0aW9uIl19LHsiaWQiOiI0OTUzOTk3ZC04NjM1LTRiZWEtYmYyMS1jYmJkNDkwNmU3YjEiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoid2hleSIsImZvcm0iOiJ3cGMiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsidWx0cmFmaWx0cmF0aW9uIiwiZHJ5aW5nLXNwcmF5Il19LHsiaWQiOiJlNzQ3Y2U1Yi0xYTNjLTQ4NmItOWVjZi02ZGNkYjNjNTVhMmIiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6ImN1cmQiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZmVybWVudGF0aW9uIiwiY29hZ3VsYXRpb24iXX0seyJpZCI6IjU5ZDRiN2M0LTI3M2YtNDZlNS1iNWI1LWIzMTU3ODk3YmU2ZSIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJidXR0ZXIiLCJmb3JtIjoiZ2hlZSIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjbGFyaWZpY2F0aW9uIl19LHsiaWQiOiI3N2M1MTliMy03OGY0LTQ0ZjgtOGYxOS01MmEyY2M2Mzk1MDYiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6Imtob2EiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZXZhcG9yYXRpb24iXX0seyJpZCI6IjZiZTMzM2U3LThhZDAtNDMyYi1hMTE3LWE5Y2QzZTI3MjY4MyIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoiY3JlYW0iLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiY2VudHJpZnVnYXRpb24iXX0seyJpZCI6IjU4Y2NmNWUwLWM3MjQtNDVkYi1hZDI1LTFlZDRhM2VmMDQ1NiIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjcmVhbSIsImZvcm0iOiJidXR0ZXIiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiY2h1cm5pbmciXX0seyJpZCI6IjcxZGI0ZmZhLWNkNTQtNGNmNi04ZjgyLTRmMDJkMzI4N2NhNiIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoiY2hlZXNlIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNvYWd1bGF0aW9uIiwiZmVybWVudGF0aW9uIl19LHsiaWQiOiI3MTI5YzgzNS1lY2Q4LTQyYTEtYTExNS04NTEzNWI4OWMxY2IiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6InBhbmVlciIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjb2FndWxhdGlvbiJdfSx7ImlkIjoiZDAyYTBkZWItOTBmNi00ZWUxLTg4MjctMmI2MjhkOGM4ZGU0IiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJ5b2dodXJ0IiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImZlcm1lbnRhdGlvbiJdfSx7ImlkIjoiZDQzOTcxMmUtOWQyMi00MDhmLWFhOTQtYTU5N2JiY2I0NjM3IiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImNyZWFtIiwiZm9ybSI6InNvdXJfY3JlYW0iLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiY2VudHJpZnVnYXRpb24iLCJmZXJtZW50YXRpb24iXX0seyJpZCI6IjJjMTc1MmQyLWI1M2QtNGJlNi1hNjc2LTU5ODcwNzFkZDlmOSIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoic21wX3Bvd2RlciIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJza2ltbWluZyIsImRyeWluZy1zcHJheSJdfSx7ImlkIjoiMmFkYzZjZmEtMWM4MC00ZTVlLTkzZGItYWExNDhjYWZmMGEyIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJtaWxrX3Bvd2RlciIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJkcnlpbmctc3ByYXkiXX0seyJpZCI6IjMxNmRlZWJiLTllMmQtNDg2YS1iY2Q3LWZkODRkODk5ODgxOCIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoiY2FzZWluIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNvYWd1bGF0aW9uIl19LHsiaWQiOiIxOWNhZWRjMy0xMWM1LTQ3ZDAtYTVkYS1iNTRiNWY5NDc2Y2IiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6InRvbmVkX21pbGsiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsic3RhbmRhcmRpemF0aW9uIl19LHsiaWQiOiJhMDRhNjZlMi1lYzM4LTQzOGQtYTgxMy1kNDMxZjQxZDJiOTgiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoid2hleSIsImZvcm0iOiJzd2VldF93aGV5IiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNvYWd1bGF0aW9uIl19LHsiaWQiOiIyZjQxNGI0Ni1lYWZmLTRjYzAtYjAzNS0yNjA0YjEwZWM5N2IiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiY3JlYW0iLCJmb3JtIjoid2hpdGVfYnV0dGVyIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNodXJuaW5nIl19LHsiaWQiOiJkYzJjYjYzNy0yZjIyLTRkNmEtYWJlZC0yYWEyZjU0NjBmZTAiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6Im1pbGtfcHJvdGVpbiIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJmaWx0cmF0aW9uIl19LHsiaWQiOiI4ZmQwMGFmNC1hNTZmLTQxNWMtODI1OC1kZGZlNGU1ODI5MmEiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoid2hleSIsImZvcm0iOiJ3aGV5X3BlcHRpZGVzIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImh5ZHJvbHlzaXMiXX0seyJpZCI6ImM4NTBmZjNmLTdlY2EtNDZmNy1iZGQyLTFiMjFiY2MwMzhlNSIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjaGVlc2UiLCJmb3JtIjoiY2hlZXNlX3Bvd2RlciIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJkcnlpbmctc3ByYXkiXX0seyJpZCI6Ijk1NWI5ZDZiLTFlNWItNDcxNS05NjNhLTE4YWJiN2Q4OTc5MCIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJ5b2dodXJ0IiwiZm9ybSI6InlvZ3VydF9wb3dkZXIiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZHJ5aW5nLXNwcmF5Il19LHsiaWQiOiI0OWU1YjhmYi1hYmU4LTQxYTMtOTZiYS1iY2M3ODQ1N2YxYjEiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiY2FzZWluIiwiZm9ybSI6InJlbm5ldF9jYXNlaW4iLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZHJ5aW5nLXNwcmF5Il19LHsiaWQiOiIwNGJlM2M5Yy01ZmJiLTQ0MmItYmZlOS0yNjgxZDhhZmIyNWQiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiY3JlYW0iLCJmb3JtIjoiY3VsdHVyZWRfY3JlYW0iLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZmVybWVudGF0aW9uIl19LHsiaWQiOiIyMTkyZDFmZS1lNjk0LTQyMGMtOGIwYy0xNDFhNzNhYmU1MDEiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6ImRvdWJsZV90b25lZF9taWxrIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbInN0YW5kYXJkaXphdGlvbiJdfSx7ImlkIjoiNDNmODA0YmMtMmRmYS00NGJmLWFlMGUtMDFiYmQ4YWY0ZGE0IiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJwYXJ0bHlfc2tpbW1lZF9taWxrIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbInNraW1taW5nIl19LHsiaWQiOiJlNGM4NzFiNi1hOWQzLTQ0ZjQtYmJmNS0yYWZhNTYzMWVmNjMiLCJ0eXBlIjoiVmFyaWV0eU9mIiwiYmFzZSI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsInZhcmlldHkiOiJjb3dfbWlsayJ9XSwiY3VzdG9tTWV0aG9kcyI6WyJjZW50cmlmdWdhdGlvbiIsInN0YW5kYXJkaXphdGlvbiIsImZpbHRyYXRpb24iLCJoeWRyb2x5c2lzIl0sImN1c3RvbU1hdHRlclN0YXRlcyI6WyJ2aXNjb3VzIl0sImN1c3RvbVNvdXJjZVR5cGVzIjpbXX0=
+
+# ── New enum values — add these to enum_requests.md ──────────────────
+# NEW  processing_method: "centrifugation"
+# NEW  processing_method: "standardization"
+# NEW  processing_method: "filtration"
+# NEW  processing_method: "hydrolysis"
+# NEW  matter_state: "viscous"
+# ─────────────────────────────────────────────────────────────────────
+
+from index import Database, Source, IngredientForm, FormOf, VarietyOf
+
+db = Database()
+
+milk = db.add(Source(
+    name="milk",
+    type="dairy",
+    is_allergen=True,
+    is_declarable=True
+))
+db.relate(FormOf(origin=milk, form=whey, processing_method=["coagulation"]))
+db.relate(FormOf(origin=milk, form=curd, processing_method=["fermentation", "coagulation"]))
+db.relate(FormOf(origin=milk, form=khoa, processing_method=["evaporation"]))
+db.relate(FormOf(origin=milk, form=cream, processing_method=["centrifugation"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=cheese, processing_method=["coagulation", "fermentation"]))
+db.relate(FormOf(origin=milk, form=paneer, processing_method=["coagulation"]))
+db.relate(FormOf(origin=milk, form=yoghurt, processing_method=["fermentation"]))
+db.relate(FormOf(origin=milk, form=smp_powder, processing_method=["skimming", "drying-spray"]))
+db.relate(FormOf(origin=milk, form=milk_powder, processing_method=["drying-spray"]))
+db.relate(FormOf(origin=milk, form=casein, processing_method=["coagulation"]))
+db.relate(FormOf(origin=milk, form=toned_milk, processing_method=["standardization"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=milk_protein, processing_method=["filtration"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=double_toned_milk, processing_method=["standardization"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=partly_skimmed_milk, processing_method=["skimming"]))
+
+whey = db.add(IngredientForm(id="whey", matter_state="liquid"))
+db.relate(FormOf(origin=whey, form=wpc, processing_method=["ultrafiltration", "drying-spray"]))
+db.relate(FormOf(origin=whey, form=sweet_whey, processing_method=["coagulation"]))
+db.relate(FormOf(origin=whey, form=whey_peptides, processing_method=["hydrolysis"]))  # NEW processing_method
+
+wpc = db.add(IngredientForm(id="wpc", matter_state="powder"))
+
+curd = db.add(IngredientForm(id="curd", matter_state="semi_solid"))
+
+cream = db.add(IngredientForm(id="cream", matter_state="viscous"))  # NEW matter_state
+db.relate(FormOf(origin=cream, form=butter, processing_method=["churning"]))
+db.relate(FormOf(origin=cream, form=sour_cream, processing_method=["centrifugation", "fermentation"]))  # NEW processing_method
+db.relate(FormOf(origin=cream, form=white_butter, processing_method=["churning"]))
+db.relate(FormOf(origin=cream, form=cultured_cream, processing_method=["fermentation"]))
+
+butter = db.add(IngredientForm(id="butter", matter_state="semi_solid"))
+db.relate(FormOf(origin=butter, form=ghee, processing_method=["clarification"]))
+
+ghee = db.add(IngredientForm(id="ghee", matter_state="semi_solid"))
+
+khoa = db.add(IngredientForm(id="khoa", matter_state="semi_solid"))
+
+cheese = db.add(IngredientForm(id="cheese", matter_state="semi_solid"))
+db.relate(FormOf(origin=cheese, form=cheese_powder, processing_method=["drying-spray"]))
+
+paneer = db.add(IngredientForm(id="paneer", matter_state="semi_solid"))
+
+yoghurt = db.add(IngredientForm(id="yoghurt", matter_state="semi_solid"))
+db.relate(FormOf(origin=yoghurt, form=yogurt_powder, processing_method=["drying-spray"]))
+
+sour_cream = db.add(IngredientForm(id="sour_cream", matter_state="viscous"))  # NEW matter_state
+
+smp_powder = db.add(IngredientForm(id="smp_powder", matter_state="powder"))
+
+milk_powder = db.add(IngredientForm(id="milk_powder", matter_state="powder"))
+
+casein = db.add(IngredientForm(id="casein", matter_state="liquid"))
+db.relate(FormOf(origin=casein, form=rennet_casein, processing_method=["drying-spray"]))
+
+toned_milk = db.add(IngredientForm(id="toned_milk", matter_state="liquid"))
+
+sweet_whey = db.add(IngredientForm(id="sweet_whey", matter_state="liquid"))
+
+white_butter = db.add(IngredientForm(id="white_butter", matter_state="semi_solid"))
+
+milk_protein = db.add(IngredientForm(id="milk_protein", matter_state="liquid"))
+
+whey_peptides = db.add(IngredientForm(id="whey_peptides", matter_state="liquid"))
+
+cheese_powder = db.add(IngredientForm(id="cheese_powder", matter_state="powder"))
+
+yogurt_powder = db.add(IngredientForm(id="yogurt_powder", matter_state="powder"))
+
+rennet_casein = db.add(IngredientForm(id="rennet_casein", matter_state="powder"))
+
+cultured_cream = db.add(IngredientForm(id="cultured_cream", matter_state="viscous"))  # NEW matter_state
+
+double_toned_milk = db.add(IngredientForm(id="double_toned_milk", matter_state="liquid"))
+
+partly_skimmed_milk = db.add(IngredientForm(id="partly_skimmed_milk", matter_state="liquid"))
+
+cow_milk = db.add(IngredientForm(id="cow_milk", matter_state="liquid"))
+db.relate(VarietyOf(base=milk, variety=cow_milk))
+
+print(db)
