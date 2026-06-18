@@ -1,0 +1,510 @@
+{
+  "sources": [
+    {
+      "id": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "name": "milk",
+      "type": "dairy",
+      "is_allergen": true,
+      "is_declarable": true
+    },
+    {
+      "id": "a6a71053-bba2-4bfc-9fba-68d0a384b6e0",
+      "name": "streptococcus thermophilus",
+      "type": "microbial",
+      "is_allergen": false,
+      "is_declarable": false
+    },
+    {
+      "id": "b15e40e3-3972-4f1d-8cc8-0e720d296d1b",
+      "name": "lactobacillus acidophilus",
+      "type": "microbial",
+      "is_allergen": false,
+      "is_declarable": false
+    },
+    {
+      "id": "63fe4525-99c9-4d4d-8c9d-0b13027d6dea",
+      "name": "lactobacillus delbrueckii subsp. bulgaricus",
+      "type": "microbial",
+      "is_allergen": false,
+      "is_declarable": false
+    },
+    {
+      "id": "a2e2f748-0059-4ee7-bef6-6c520b2c637c",
+      "name": "limosilactobacillus reuteri",
+      "type": "microbial",
+      "is_allergen": false,
+      "is_declarable": false
+    },
+    {
+      "id": "a6ef7ea3-5217-4fb9-86b3-08c6675a0ffc",
+      "name": "bifidobacterium animalis subsp. lactis",
+      "type": "microbial",
+      "is_allergen": false,
+      "is_declarable": false
+    },
+    {
+      "id": "036689bf-4237-4b5b-be29-584a91803241",
+      "name": "cow milk",
+      "type": "dairy",
+      "is_allergen": true,
+      "is_declarable": true
+    }
+  ],
+  "forms": [
+    {
+      "id": "whey",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "wpc",
+      "matter_state": "powder"
+    },
+    {
+      "id": "curd",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "ghee",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "khoa",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cream",
+      "matter_state": "viscous"
+    },
+    {
+      "id": "butter",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cheese",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "paneer",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "yoghurt",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "sour_cream",
+      "matter_state": "viscous"
+    },
+    {
+      "id": "smp_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "milk_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "casein",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "toned_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "sweet_whey",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "white_butter",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "milk_protein",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "whey_peptides",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "cheese_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "yogurt_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "rennet_casein",
+      "matter_state": "powder"
+    },
+    {
+      "id": "cultured_cream",
+      "matter_state": "viscous"
+    },
+    {
+      "id": "double_toned_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "partly_skimmed_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "cow_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "milk_protein_concentrate",
+      "matter_state": "powder"
+    },
+    {
+      "id": "calcium_caseinate",
+      "matter_state": "powder"
+    },
+    {
+      "id": "sweet_cream_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "whey_permeate_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "buffalo_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "raw_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "whey_protein_isolate",
+      "matter_state": "powder"
+    },
+    {
+      "id": "sodium_caseinate",
+      "matter_state": "powder"
+    }
+  ],
+  "relations": [
+    {
+      "id": "82cbf196-df9c-429b-8c0c-7d4c72185bdc",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "whey",
+      "processing_methods": [
+        "coagulation"
+      ]
+    },
+    {
+      "id": "4953997d-8635-4bea-bf21-cbbd4906e7b1",
+      "type": "FormOf",
+      "origin": "whey",
+      "form": "wpc",
+      "processing_methods": [
+        "ultrafiltration",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "e747ce5b-1a3c-486b-9ecf-6dcdb3c55a2b",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "curd",
+      "processing_methods": [
+        "fermentation",
+        "coagulation"
+      ]
+    },
+    {
+      "id": "59d4b7c4-273f-46e5-b5b5-b3157897be6e",
+      "type": "FormOf",
+      "origin": "butter",
+      "form": "ghee",
+      "processing_methods": [
+        "clarification"
+      ]
+    },
+    {
+      "id": "77c519b3-78f4-44f8-8f19-52a2cc639506",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "khoa",
+      "processing_methods": [
+        "evaporation"
+      ]
+    },
+    {
+      "id": "6be333e7-8ad0-432b-a117-a9cd3e272683",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "cream",
+      "processing_methods": [
+        "centrifugation"
+      ]
+    },
+    {
+      "id": "58ccf5e0-c724-45db-ad25-1ed4a3ef0456",
+      "type": "FormOf",
+      "origin": "cream",
+      "form": "butter",
+      "processing_methods": [
+        "churning"
+      ]
+    },
+    {
+      "id": "71db4ffa-cd54-4cf6-8f82-4f02d3287ca6",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "cheese",
+      "processing_methods": [
+        "coagulation",
+        "fermentation"
+      ]
+    },
+    {
+      "id": "7129c835-ecd8-42a1-a115-85135b89c1cb",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "paneer",
+      "processing_methods": [
+        "coagulation"
+      ]
+    },
+    {
+      "id": "d02a0deb-90f6-4ee1-8827-2b628d8c8de4",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "yoghurt",
+      "processing_methods": [
+        "fermentation"
+      ]
+    },
+    {
+      "id": "d439712e-9d22-408f-aa94-a597bbcb4637",
+      "type": "FormOf",
+      "origin": "cream",
+      "form": "sour_cream",
+      "processing_methods": [
+        "centrifugation",
+        "fermentation"
+      ]
+    },
+    {
+      "id": "2c1752d2-b53d-4be6-a676-5987071dd9f9",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "smp_powder",
+      "processing_methods": [
+        "skimming",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "2adc6cfa-1c80-4e5e-93db-aa148caff0a2",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "milk_powder",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "316deebb-9e2d-486a-bcd7-fd84d8998818",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "casein",
+      "processing_methods": [
+        "coagulation"
+      ]
+    },
+    {
+      "id": "19caedc3-11c5-47d0-a5da-b54b5f9476cb",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "toned_milk",
+      "processing_methods": [
+        "standardization"
+      ]
+    },
+    {
+      "id": "a04a66e2-ec38-438d-a813-d431f41d2b98",
+      "type": "FormOf",
+      "origin": "whey",
+      "form": "sweet_whey",
+      "processing_methods": [
+        "coagulation"
+      ]
+    },
+    {
+      "id": "2f414b46-eaff-4cc0-b035-2604b10ec97b",
+      "type": "FormOf",
+      "origin": "cream",
+      "form": "white_butter",
+      "processing_methods": [
+        "churning"
+      ]
+    },
+    {
+      "id": "dc2cb637-2f22-4d6a-abed-2aa2f5460fe0",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "milk_protein",
+      "processing_methods": [
+        "filtration"
+      ]
+    },
+    {
+      "id": "8fd00af4-a56f-415c-8258-ddfe4e58292a",
+      "type": "FormOf",
+      "origin": "whey",
+      "form": "whey_peptides",
+      "processing_methods": [
+        "hydrolysis"
+      ]
+    },
+    {
+      "id": "c850ff3f-7eca-46f7-bdd2-1b21bcc038e5",
+      "type": "FormOf",
+      "origin": "cheese",
+      "form": "cheese_powder",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "955b9d6b-1e5b-4715-963a-18abb7d89790",
+      "type": "FormOf",
+      "origin": "yoghurt",
+      "form": "yogurt_powder",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "49e5b8fb-abe8-41a3-96ba-bcc78457f1b1",
+      "type": "FormOf",
+      "origin": "casein",
+      "form": "rennet_casein",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "04be3c9c-5fbb-442b-bfe9-2681d8afb25d",
+      "type": "FormOf",
+      "origin": "cream",
+      "form": "cultured_cream",
+      "processing_methods": [
+        "fermentation"
+      ]
+    },
+    {
+      "id": "2192d1fe-e694-420c-8b0c-141a73abe501",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "double_toned_milk",
+      "processing_methods": [
+        "standardization"
+      ]
+    },
+    {
+      "id": "43f804bc-2dfa-44bf-ae0e-01bbd8af4da4",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "partly_skimmed_milk",
+      "processing_methods": [
+        "skimming"
+      ]
+    },
+    {
+      "id": "e4c871b6-a9d3-44f4-bbf5-2afa5631ef63",
+      "type": "VarietyOf",
+      "base": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "variety": "cow_milk"
+    },
+    {
+      "id": "efc2aae2-fcef-46af-9544-149d2ffc2a1a",
+      "type": "FormOf",
+      "origin": "milk_protein",
+      "form": "milk_protein_concentrate",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "367afaac-7588-44c1-8886-d8212f8d0aae",
+      "type": "FormOf",
+      "origin": "casein",
+      "form": "calcium_caseinate",
+      "processing_methods": [
+        "neutralization",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "110d28a2-84be-43f7-a7ee-f4f03e25e8be",
+      "type": "FormOf",
+      "origin": "cream",
+      "form": "sweet_cream_powder",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "a3440f22-916d-4a79-92b1-35df0e7c1a27",
+      "type": "FormOf",
+      "origin": "whey",
+      "form": "whey_permeate_powder",
+      "processing_methods": [
+        "ultrafiltration",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "6a17e3fa-5385-46c2-8766-a905b689743d",
+      "type": "VarietyOf",
+      "base": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "variety": "buffalo_milk"
+    },
+    {
+      "id": "f362e638-b637-4202-9347-e1ac8fc24d9e",
+      "type": "VarietyOf",
+      "base": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "variety": "raw_milk"
+    },
+    {
+      "id": "8b36c354-4620-43bb-bbae-fd7eed40cb4d",
+      "type": "FormOf",
+      "origin": "whey",
+      "form": "whey_protein_isolate",
+      "processing_methods": [
+        "ultrafiltration",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "172c92ca-a264-4277-9421-392a3b8377df",
+      "type": "FormOf",
+      "origin": "casein",
+      "form": "sodium_caseinate",
+      "processing_methods": [
+        "neutralization",
+        "drying-spray"
+      ]
+    }
+  ],
+  "customMethods": [
+    "centrifugation",
+    "standardization",
+    "filtration",
+    "hydrolysis",
+    "neutralization"
+  ],
+  "customMatterStates": [
+    "viscous"
+  ],
+  "customSourceTypes": []
+}
